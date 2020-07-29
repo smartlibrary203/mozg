@@ -1,0 +1,2 @@
+# mozg
+GitHub Pages
